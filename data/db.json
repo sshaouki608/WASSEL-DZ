@@ -1,0 +1,89 @@
+{
+  "products": [],
+  "sellers": [],
+  "submissions": [],
+  "orders": [],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "الإلكترونيات",
+      "slug": "electronics",
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "name": "الهواتف والإكسسوارات",
+      "slug": "phones-accessories",
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "name": "الملابس والأحذية",
+      "slug": "clothing-shoes",
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "name": "المنزل والمطبخ",
+      "slug": "home-kitchen",
+      "order": 4
+    },
+    {
+      "id": "cat-5",
+      "name": "الأجهزة الكهربائية",
+      "slug": "home-appliances",
+      "order": 5
+    },
+    {
+      "id": "cat-6",
+      "name": "السيارات وملحقاتها",
+      "slug": "auto-accessories",
+      "order": 6
+    },
+    {
+      "id": "cat-7",
+      "name": "الرياضة",
+      "slug": "sports",
+      "order": 7
+    },
+    {
+      "id": "cat-8",
+      "name": "الألعاب",
+      "slug": "games-toys",
+      "order": 8
+    },
+    {
+      "id": "cat-9",
+      "name": "الجمال والعناية",
+      "slug": "beauty-care",
+      "order": 9
+    },
+    {
+      "id": "cat-10",
+      "name": "منتجات متنوعة",
+      "slug": "miscellaneous",
+      "order": 10
+    }
+  ],
+  "settings": {
+    "platformFee": 300,
+    "phone": "+213 667 661 934",
+    "whatsapp": "+213 667 661 934",
+    "email": "sshaouki608@gmail.com",
+    "adminUser": "chdev",
+    "adminPass": "chdev",
+    "banners": [
+      {
+        "id": "banner-1",
+        "title": "WASSEL DZ – سوقك الجزائري في مكان واحد",
+        "subtitle": "المنصة الوطنية الموثوقة للتسوق وبيع المنتجات عبر كافة ولايات الجزائر الـ 58. جودة مضمونة وتوصيل سريع.",
+        "buttonText": "اعرض منتجك للبيع الآن",
+        "buttonLink": "submit-product",
+        "bgGradient": "from-emerald-950 via-emerald-800 to-teal-900",
+        "active": true
+      }
+    ]
+  },
+  "contactMessages": [],
+  "activityLog": []
+}

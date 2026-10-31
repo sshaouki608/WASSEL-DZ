@@ -1,0 +1,6 @@
+{
+  "name": "WASSEL DZ – السوق الإلكتروني الجزائري",
+  "description": "منصة التجارة الإلكترونية الجزائرية الرائدة التي تربط البائعين والمشترين مع إدارة احترافية للمنتجات والطلبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
